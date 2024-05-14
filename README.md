@@ -9,4 +9,5 @@ The app uses the UI streamlit for a better user interface.
 To run the app:
 
 ```python
-streamlit run app.py```
+streamlit run app.py
+```
